@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="disclaimer">wqe</string>
+    <string name="page_title">kino LOFT</string>
+    <string name="menu_favorites_title">Избраное</string>
+    <string name="menu_watch_later_title">Смотреть позже</string>
+    <string name="menu_selections_title">More</string>
+    <string name="menu_settings_title">Настройки</string>
+</resources>
